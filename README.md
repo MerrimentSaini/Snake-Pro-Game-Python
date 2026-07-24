@@ -1,7 +1,7 @@
 <========== 🐍 Snake Pro | 10 Levels  ==========>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-saini-15956b214)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/MerrimentSaini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](Avi Saini)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](MerrimentSaini)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pygame](https://img.shields.io/badge/Pygame-Game%20Development-green)
@@ -60,22 +60,22 @@ The game has been designed with a clean UI and smooth gameplay to provide an eng
 
 <----- 🏠 Home Screen ----->
 
-![Home Screen](screenshots/HomePage.png)
+![Home Screen](Screenshots/HomePage.png)
 
 
 <----- 🎯 Level Information ----->
 
-![Level Screen](screenshots/Level.png)
+![Level Screen](Screenshots/Level.png)
 
 
 <----- 🎮 Gameplay ----->
 
-![Gameplay](screenshots/GamePlay.png)
+![Gameplay](Screenshots/GamePlay.png)
 
 
 <----- 💀 Game Over Screen ----->
 
-![Game Over](screenshots/GameOver.png)
+![Game Over](Screenshots/GameOver.png)
 
 
 <----- 🎯 Game Progression ----->
@@ -97,10 +97,11 @@ The game has been designed with a clean UI and smooth gameplay to provide an eng
 <========== 📂 Project Structure ==========>
 
 ```
-Snake-Pro/
+SnakePro/
 │
-├── SnakeGame.py
-├── screenshots/
+├──Game_Source_Code
+|   ├── SnakeGame.py
+├── Screenshots/
 │   ├── HomePage.png
 │   ├── Level.png
 │   ├── GamePlay.png
@@ -142,7 +143,7 @@ Avi Saini
 📧 Passionate Python Developer & Data Analyst Aspirant
 
 💼 LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
-💻 GitHub:   https://github.com/MerrimentSaini
+💻 GitHub: https://github.com/MerrimentSaini
 
 
 <========== ⭐ If you like this project ==========>
