@@ -1,7 +1,13 @@
 <========== 🐍 Snake Pro | 10 Levels  ==========>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](Avi Saini)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](MerrimentSaini)
+<p align="center">
+  <a href="https://github.com/MerrimentSaini">
+    <img src="https://img.shields.io/badge/GitHub-MerrimentSaini-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/avi-saini-15956b214/">
+    <img src="https://img.shields.io/badge/LinkedIn-Avi Saini-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pygame](https://img.shields.io/badge/Pygame-Game%20Development-green)
@@ -142,8 +148,9 @@ Avi Saini
 
 📧 Passionate Python Developer & Data Analyst Aspirant
 
-💼 LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
-💻 GitHub: https://github.com/MerrimentSaini
+GitHub: https://github.com/MerrimentSaini
+
+LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
 
 
 <========== ⭐ If you like this project ==========>
