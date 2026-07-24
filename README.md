@@ -148,11 +148,6 @@ Avi Saini
 
 📧 Passionate Python Developer & Data Analyst Aspirant
 
-GitHub: https://github.com/MerrimentSaini
-
-LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
-
-
 <========== ⭐ If you like this project ==========>
 
 Please consider giving this repository a **Star ⭐** on GitHub. Your support motivates me to build more exciting Python projects. Thanks..!
