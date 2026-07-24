@@ -150,7 +150,8 @@ Avi Saini
 
 GitHub: https://github.com/MerrimentSaini
 
-LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
+LinkedIn: https://www.linkedin.com/in/avi-saini-15956b214
+
 
 <========== ⭐ If you like this project ==========>
 
